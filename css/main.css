@@ -1,0 +1,40 @@
+
+.intro{
+    
+    height: 100%;
+    max-height: 100%
+}
+.bgdetails{
+    color: darkgoldenrod;
+    height: 100%;
+    
+}
+.textSplash{
+    font-size: 4rem;
+    font-weight: lighter;
+    margin-top: 50vh;
+}
+.mapImg{
+    height: 2vh;
+}
+.txtIndx{
+    font-size: 2rem;
+    font-weight: lighter;
+    
+}
+.divider    {
+    background-color:whitesmoke;
+    margin-top: 2vh;
+    padding: 0px;
+    width: 100%;
+}
+.dividerBox{
+    margin:0px;
+    padding: 0px;
+    
+}
+.boxDivider{
+    color:white;
+    margin: 0px;
+    padding: 0px;
+}
