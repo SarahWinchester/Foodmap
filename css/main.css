@@ -38,3 +38,6 @@
     margin: 0px;
     padding: 0px;
 }
+.myList li{
+    border: 2px solid black;
+}
